@@ -115,6 +115,7 @@ for (size_t bin : bins)
 }
 
 int main() {
+
     size_t number_count;
     cerr << "Enter number count: ";
     cin >> number_count;
